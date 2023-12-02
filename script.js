@@ -8,6 +8,7 @@ class Product{
         this.productName = productName;
         this.productPrice = productPrice;
         const asdfg = document.createElement('div');
+        asdfg.className = card;
         asdfg.innerHTML = 
         
         `
